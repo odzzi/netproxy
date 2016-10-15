@@ -5,6 +5,7 @@ netproxy is a tools to connect both local and remote side, make them conneted.
  jre 1.6
 
 + usage:
+
  start the proxy:
  java -jar tcpproxy.jar localIP localPort remoteIP remotePort
  
